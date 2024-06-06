@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:uber_clone/view/select_origin_to_destination.dart';
+import 'package:uber_osm_flutter/view/select_origin_to_destination.dart';
 import 'package:flutter/material.dart';
  
 import 'dimens.dart';
